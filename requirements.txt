@@ -1,4 +1,4 @@
 fastapi
-Uvicorn
+uvicorn
 python-multipart
 opencv-python
